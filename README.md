@@ -30,7 +30,6 @@ This repository contains the report and code for analyzing Support Vector Machin
 ---
 
 ## GitHub Repository
-
-https://github.com/sahithpundru/SVM-Kernel-Report
+https://github.com/sahithreddypundru/SVM_Kernel_Report.git
   
 
